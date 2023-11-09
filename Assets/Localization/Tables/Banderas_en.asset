@@ -1,0 +1,31 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 97269afb30aa84742ae3f3342603618a, type: 3}
+  m_Name: Banderas_en
+  m_EditorClassIdentifier: 
+  m_LocaleId:
+    m_Code: en
+  m_SharedData: {fileID: 11400000, guid: cd709a2b5973221438e824b4bea29f1d, type: 2}
+  m_Metadata:
+    m_Items: []
+  m_TableData:
+  - m_Id: 56358440960
+    m_Localized: 3577bf128ea490b4cab7af97f08e9b2c
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2834048847872
+    m_Localized: 3577bf128ea490b4cab7af97f08e9b2c[Inglaterra]
+    m_Metadata:
+      m_Items: []
+  references:
+    version: 2
+    RefIds: []
